@@ -1,5 +1,4 @@
-<img src="https://media.discordapp.net/attachments/907127111708446761/931199486930337912/jtr-banner.png" alt="Banner" width="1000" height="300" >
-
+<img src="https://media.discordapp.net/attachments/907127111708446761/931199486930337912/jtr-banner.png" alt="Banner" width="1000" height="250" >                                                                                                                                        
 - 🔭 I’m currently working on Rentrie
 - 🌱 I’m currently learning PHP and Python
 - 👯 I’m looking to collaborate on Nothing
