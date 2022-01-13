@@ -19,3 +19,4 @@ Front-End Developer and Experienced in Linux Server Administration
 ### My Dynamic Duo :
 <img src="https://discord.c99.nl/widget/theme-2/906967431673692221.png" alt="Discord Status">
 
+---
