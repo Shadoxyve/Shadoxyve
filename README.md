@@ -10,7 +10,7 @@
 - ⚡ Fun fact: You wasted your time reading this.
 
 ### My Discord :
-<img src="https://discord.c99.nl/widget/theme-2/903990460186493009.png" alt="Discord Status">
+<img src="https://discord.c99.nl/widget/theme-3/903990460186493009.png" alt="Discord Status">
 
 ### My Dynamic Duo :
 <img src="https://discord.c99.nl/widget/theme-2/906967431673692221.png" alt="Discord Status">
