@@ -1,4 +1,4 @@
-### Heyo Stranger 👋
+<img src="https://media.discordapp.net/attachments/907127111708446761/931199486930337912/jtr-banner.png" alt="Banner">
 
 - 🔭 I’m currently working on Rentrie
 - 🌱 I’m currently learning PHP and Python
