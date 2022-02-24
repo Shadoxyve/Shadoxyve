@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/907127111708446761/931199486930337912/jtr-banner.png" alt="Banner" width="5000" height="300" >
+
 
 Front-End Developer and Experienced in Linux Server Administration
 
