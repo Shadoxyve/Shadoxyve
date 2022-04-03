@@ -2,7 +2,7 @@
 
 Front-End Developer and Experienced in Linux Server Administration
 
-- 🔭 I’m currently working on Rentrie
+- 🔭 I’m currently working on Sizzly Network
 - 🌱 I’m currently learning PHP and Python
 - 👯 I’m looking to collaborate on Nothing
 - 🤔 I’m looking for help with Nothing
